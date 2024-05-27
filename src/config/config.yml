@@ -1,0 +1,9 @@
+app:
+  name: 't1'
+  version: '1.0.0'
+
+sqlite:
+  path: './pkg/sqlite/database.db'
+  timeout: 1
+  tries: 3
+  std_date: '01.01.2021'
